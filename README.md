@@ -36,3 +36,15 @@ This is a simple weather station project that collects temperature and humidity 
 
 5. Note: Ensure that the ESP32 is connected to the same network as the machine running the Python script.
    
+
+## Example Output
+
+![Default Visualization](output_examples/default_plot.png)
+
+![Anomaly Visualization](output_examples/anomalies_example.png)
+
+![Rolling Average Visualization](output_examples/rolling_average.png)
+
+![Temperature Histogram Visualization](output_examples/temperature_hist.png)
+
+![Humidity Histogram Visualization](output_examples/humidity_hist.png)
